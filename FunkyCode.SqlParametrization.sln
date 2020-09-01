@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunkyCode.SqlParametrization", "FunkyCode.SqlParametrization\FunkyCode.SqlParametrization.csproj", "{3BF64DBE-906E-443E-BA2D-809E3B8BE865}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunkyCode.SqlParametrization.Benchmarks", "FunkyCode.SqlParametrization.Benchmarks\FunkyCode.SqlParametrization.Benchmarks.csproj", "{95296A94-BF79-4553-835D-717B00CC0229}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunkyCode.SqlParametrization", "FunkyCode.SqlParametrization\FunkyCode.SqlParametrization.csproj", "{3BF64DBE-906E-443E-BA2D-809E3B8BE865}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +15,6 @@ Global
 		{3BF64DBE-906E-443E-BA2D-809E3B8BE865}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3BF64DBE-906E-443E-BA2D-809E3B8BE865}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3BF64DBE-906E-443E-BA2D-809E3B8BE865}.Release|Any CPU.Build.0 = Release|Any CPU
-		{95296A94-BF79-4553-835D-717B00CC0229}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{95296A94-BF79-4553-835D-717B00CC0229}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{95296A94-BF79-4553-835D-717B00CC0229}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{95296A94-BF79-4553-835D-717B00CC0229}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
